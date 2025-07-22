@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AchiengJoy
-- 👀 I’m interested in machine learning and devops.
+- 👀 I’m interested in data engineering, machine learning and devops.
 - 🌱 I’m currently learning full stack devops, OpenSource
-- 💞️ I’m looking to collaborate on machine learning and devops projects.
+- 💞️ I’m looking to collaborate on data engineering, machine learning and devops projects.
 - 📫 How to reach me on LinkedIn.
 
 <!---
